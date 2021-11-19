@@ -1,0 +1,7 @@
+My_android_tools
+================
+For android R(tested on dotOS 5.2)
+
+A tools to 
+*clean all caches in rec mode or rooted device
+*a pixel vendor pack in adb , rec or rooted device (not magisk)
